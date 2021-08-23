@@ -67,8 +67,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "naqeeb2710", //i.e."johnDoe12Gh"
-  reposLength: 1,
-  specificRepos: [""],
+  reposLength: 0,
+  specificRepos: ["Hackathon-website"],
 };
 
 // Leadership SECTION
